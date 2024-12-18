@@ -21,3 +21,8 @@ Overall Workflow
 - Generate a PDF report from OpenAI’s response using FPDF.
 
 - Provide the PDF for download and delete all temporary files after download.
+
+#OCR
+
+- Both C++ need to merge
+- All header libraries need to be included in the directory of the c++ for easier compiling. 
