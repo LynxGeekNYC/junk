@@ -1,4 +1,6 @@
-Overall Workflow
+Overall Workflow: User uploads file for OpenAI to analyze and generate a report as a downloadable PDF.
+
+Job Requirements: I have multiple variations of the script and I need to bring all the good functions together, etc and make it work. 
 
 #Frontend:
 
